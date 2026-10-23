@@ -59,4 +59,9 @@ compatible with [Ikemen GO](https://github.com/ikemen-engine/Ikemen-GO);
 
 ---
 
-<sub>Built in Antananarivo, Madagascar 🇲🇬 by <a href="https://axel-rakotoarivao.pages.dev/">Axel RAKOTOARIVAO</a>. A community project, not affiliated with Elecbyte or the Ikemen GO team.</sub>
+<p align="center">
+  Built in <b>Antananarivo, Madagascar</b> 🇲🇬 by <a href="https://axel-rakotoarivao.pages.dev/"><b>Axel RAKOTOARIVAO</b></a><br>
+  <a href="https://axel-rakotoarivao.pages.dev/">Portfolio</a> · <a href="https://github.com/Dokja620">GitHub</a>
+</p>
+
+<p align="center">A community project, not affiliated with Elecbyte or the Ikemen GO team.</p>
