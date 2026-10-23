@@ -57,4 +57,6 @@ compatible with [Ikemen GO](https://github.com/ikemen-engine/Ikemen-GO);
   [building](https://rugen.dev/docs/engine/building/) ·
   [contributing](https://rugen.dev/docs/engine/contributing/)
 
-<sub>rugen is a community project, not affiliated with Elecbyte or the Ikemen GO team.</sub>
+---
+
+<sub>Built in Antananarivo, Madagascar 🇲🇬 by <a href="https://axel-rakotoarivao.pages.dev/">Axel RAKOTOARIVAO</a>. A community project, not affiliated with Elecbyte or the Ikemen GO team.</sub>
